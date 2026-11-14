@@ -34,6 +34,8 @@ Validated on 17 held-out 24h windows (16 Coinbase days + round-2 dev):
 see VALIDATION.md. Dev-window grade must be > $0 to race.
 """
 
+# v2: longer 180-bar momentum, tighter -50 bps hard stop (see VALIDATION.md).
+
 import os
 import sys
 
